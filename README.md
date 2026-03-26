@@ -150,11 +150,13 @@ Can be scanned via mobile devices or drop the svg file created inside Public/Qr 
 
 👥 Contributors
 
-👨‍💻 Charbel Wehbe
 
 👨‍💻 Manuel Mallo
 
+👨‍💻 Charbel Wehbe
+
 📸 Screenshots
+
 ### LandingPage
 ![LandingPage](assets/screenshots/LandingPage.png)
 
